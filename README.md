@@ -31,7 +31,7 @@
 
 ### Testing:
 <ul>
-    Here is a link to the live application: (heroku link)
+    Here is a link to the live application: https://eat-da-booger.herokuapp.com/burgers
 </ul>
 
 ### Questions?
