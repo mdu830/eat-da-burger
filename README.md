@@ -6,7 +6,7 @@
 ### Description: 
 
 <ul>
-    When the user submits a burger they would like to eat, the application displays it on the left of the screen with a "devour" button. When devoured, the burger is then moved to the right of the screen into a list of previously devoured burgers. All burgers, devoured or not are saved to a mySQL database.    
+    When the user submits a burger they would like to eat, the application displays it on the left of the screen with a "devour" button. When devoured, the burger is then moved to the right of the screen into a list of previously devoured burgers. All burgers devoured or not, are saved to a mySQL database deployed on heroku.    
 </ul>
 
 ### Table of Contents
