@@ -10,20 +10,14 @@
 </ul>
 
 ### Table of Contents
-* [Installation](#installation)
 * [Usage](#usage)
 * [Testing](#testing)
 * [Contributors](#contributors)
 * [License](#License)
-    
-### Installation:
-<ul>
-    non
-</ul>
 
 ### Usage:
 <ul>
-    non
+    example.gif
 </ul>
 
 ### License
@@ -37,7 +31,7 @@
 
 ### Testing:
 <ul>
-    visit: link
+    Here is a link to the live application: (heroku link)
 </ul>
 
 ### Questions?
